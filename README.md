@@ -1,7 +1,7 @@
 # IlikeToNovedNoved
 
 
-Follow <strong><i>key.inc.php</i></strong>
+Follow <strong style="color:yellow"><i>key.inc.php</i></strong> OR <span style="color:green">Check Description</span>
 Balance adjust and gonna be crypto king or princes.
 
 Rule the Digital Realm with Crypto Majesty! Also Free. Just download and manage your crypto.
